@@ -1,0 +1,4 @@
+config { type: "view", disabled: true }
+select
+  "${require("df-workspace-parent-gitoracle/packages/ws-child/../../../../.git/HEAD")}" as head_signal,
+  "${require("df-workspace-parent-gitoracle/packages/ws-child/package.json").name}" as pkg_name
