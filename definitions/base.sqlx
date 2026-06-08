@@ -1,0 +1,2 @@
+config { type: "operations" }
+select "DF_WS_PARENT_BASE_20260608T021756Z" as marker;
