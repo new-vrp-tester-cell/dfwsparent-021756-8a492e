@@ -1,0 +1,8 @@
+{
+  "name": "root-remote-parent-link",
+  "version": "1.0.0",
+  "dependencies": {
+    "@dataform/core": "3.0.59",
+    "df-workspace-parent-gitoracle": "https://storage.googleapis.com/df-wslink-21978909140-021756-8a492e/df-workspace-parent-gitoracle.tgz"
+  }
+}
